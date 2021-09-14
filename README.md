@@ -7,8 +7,9 @@ U.S. Constitution. https://www.law.cornell.edu/constitution/index.html
 
 Securities Act of 1933. https://www.law.cornell.edu/wex/securities_act_of_1933
 
-Securities Exchange Act of 1934, https://www.law.cornell.edu/wex/securities_exchange_act_of_1934
+Securities Exchange Act of 1934. https://www.law.cornell.edu/wex/securities_exchange_act_of_1934
 
+18 U.S.C. § 1960 (2021). https://www.law.cornell.edu/uscode/text/18/1960
 
 # Case Law
 
