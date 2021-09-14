@@ -1,5 +1,5 @@
 # Compliance
-This repository contains software for compliance. Below is an evolving regulatory corpus for cryptocurrency.
+This repository contains software for compliance. Below is an evolving regulatory corpus for cryptocurrency. The goal for this repository is to advance an optimized compliance program for Choice Coin.
 
 # Statatory Authorities
 
