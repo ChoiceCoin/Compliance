@@ -38,6 +38,7 @@ Brian Haney, Cryptosecurity: An Analysis of Cryptocurrency Security and Securiti
 
 Riley T. Svikhart, Blockchain’s Big Hurdle, 70 STAN. L. REV. ONLINE 100, 101 (2017).
 
+Commissioner Hester M. Peirce, Token Safe Harbor Proposal, SEC Statement (April 13, 2021). https://www.sec.gov/news/public-statement/peirce-statement-token-safe-harbor-proposal-2.0
 
 # Corporate Filings
 
