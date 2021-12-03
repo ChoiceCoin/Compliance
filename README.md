@@ -1,7 +1,7 @@
 # Compliance
 This repository contains software for compliance. Below is an evolving regulatory corpus for blockchain. The goal for this repository is to advance an optimized compliance program for Choice Coin.
 
-# Statatory Authorities
+# Statutory Authorities
 
 U.S. Constitution. https://www.law.cornell.edu/constitution/index.html
 
