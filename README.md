@@ -25,6 +25,7 @@ Lawrence v. Texas, 539 U.S. 558 (2003).
 
 United States v. Aaron Schwartz, Criminal No. 11-10260-NMG (D. Mass. Aug. 1, 2011).
 
+In Re: Erik T. Voorhees (June 3, 2014), https://www.sec.gov/news/press-release/2014-111. 
 
 # Secondary Sources
 
@@ -51,5 +52,3 @@ Coinbase, 10Q (2021). https://d18rn0p25nwr6d.cloudfront.net/CIK-0001679788/dcec0
 Microstrategy, 10K (2021). https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/financial-document-archive/Form-10-K_01-12-2021.pdf
 
 Tesla, 10K (2021). https://ir.tesla.com/_flysystem/s3/sec/000156459021022604/tsla-10ka_20201231-gen.pdf
-
-
