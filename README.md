@@ -17,6 +17,8 @@ SEC v. Howey Co. 328 US 293 (1946). https://tile.loc.gov/storage-services/servic
 
 SEC v. Ripple Labs, 20 Civ. 10832 (2020). https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf
 
+SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021). https://www.sec.gov/litigation/litreleases/2021/lr25060.htm
+
 Griswold v. Connecticut, 381 U.S. 479 (1965).
 
 Lawrence v. Texas, 539 U.S. 558 (2003). 
