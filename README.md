@@ -42,6 +42,8 @@ Commissioner Hester M. Peirce, Token Safe Harbor Proposal, SEC Statement (April 
 
 Bill Hinman and Valerie Szczepanik, Statement on “Framework for ‘Investment Contract’ Analysis of Digital Assets”, SEC Statements (April 3, 2019). https://www.sec.gov/news/public-statement/statement-framework-investment-contract-analysis-digital-assets
 
+U.S. Securities and Exchange Commission, Framework for “Investment Contract” Analysis of Digital Assets (April 3, 2019). https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets
+
 # Corporate Filings
 
 Coinbase, 10Q (2021). https://d18rn0p25nwr6d.cloudfront.net/CIK-0001679788/dcec079b-3237-4ae0-a54d-479ded972ab8.pdf
