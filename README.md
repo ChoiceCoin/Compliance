@@ -23,10 +23,6 @@ Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
 
 Griswold v. Connecticut, 381 U.S. 479 (1965).
 
-Lawrence v. Texas, 539 U.S. 558 (2003). 
-
-United States v. Aaron Schwartz, Criminal No. 11-10260-NMG (D. Mass. Aug. 1, 2011).
-
 In Re: Erik T. Voorhees (June 3, 2014), https://www.sec.gov/news/press-release/2014-111. 
 
 # Secondary Sources
