@@ -31,7 +31,7 @@ U.S. Department of Justice, Cryptocurrency Enforcement Framework, Report of The 
 Digital Task Force (October 2020). https://www.justice.gov/archives/ag/page/file/1326061/download
 
 Daniella Casseres, South Cherry Street, LLC v. Hennessee Group LLC: Investors’ Desperate Plea for Second
-Circuit Standards, 6 J. BUS. & TECH. L 231 (2011). https://digitalcommons.law.umaryland.edu/jbtl/vol6/iss1/9/.
+Circuit Standards, 6 J. BUS. & TECH. L 231 (2011). https://digitalcommons.law.umaryland.edu/jbtl/vol6/iss1/9/
 
 Brian Haney, Cryptosecurity: An Analysis of Cryptocurrency Security and Securities, Tulne Journal of Technology & Intellectual Property, Vol. 24 (2021). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880112
 
