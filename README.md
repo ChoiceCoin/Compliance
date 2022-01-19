@@ -43,7 +43,7 @@ Bill Hinman and Valerie Szczepanik, Statement on “Framework for ‘Investment 
 
 U.S. Securities and Exchange Commission, Framework for “Investment Contract” Analysis of Digital Assets (April 3, 2019). https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets
 
-What Constitutes a Security and Requirements Relating to the Offer and Sales of Securities and Exemptions From Registration Associated Therewith, American Bar Association, Business Law (April 27, 2017).
+What Constitutes a Security and Requirements Relating to the Offer and Sales of Securities and Exemptions From Registration Associated Therewith, American Bar Association, Business Law Section (April 27, 2017).
 
 # Corporate Filings
 
