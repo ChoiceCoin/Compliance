@@ -1,5 +1,5 @@
 # Compliance
-This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform in the Algorand ecosystem. Below is an evolving regulatory corpus for blockchain. The goal for this repository is to advance an optimized compliance program for Choice Coin.
+This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform in the Algorand ecosystem. Below is an evolving regulatory corpus for blockchain technologies. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to public.
 
 # Statutory Authorities
 
