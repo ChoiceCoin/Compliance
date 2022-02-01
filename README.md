@@ -1,5 +1,5 @@
 # Compliance
-This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform in the Algorand ecosystem. Below is an evolving regulatory corpus for blockchain technologies. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to public.
+This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform in the Algorand ecosystem. Below is an evolving regulatory corpus for blockchain technologies. The corupus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to public.
 
 # Statutory Authorities
 
@@ -24,6 +24,8 @@ Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
 Griswold v. Connecticut, 381 U.S. 479 (1965).
 
 In Re: Erik T. Voorhees (June 3, 2014), https://www.sec.gov/news/press-release/2014-111. 
+
+Lil Yachty v. Opulous (January 27, 2022), https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.
 
 # Secondary Sources
 
