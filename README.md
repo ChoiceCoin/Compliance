@@ -49,6 +49,8 @@ What Constitutes a Security and Requirements Relating to the Offer and Sales of 
 
 IRS, Virtual Currencies (2022), https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies.
 
+IRS, Notice 2014-21, (2014), https://www.irs.gov/pub/irs-drop/n-14-21.pdf.
+
 # Corporate Filings
 
 Coinbase, 10Q (2021). https://d18rn0p25nwr6d.cloudfront.net/CIK-0001679788/dcec079b-3237-4ae0-a54d-479ded972ab8.pdf
