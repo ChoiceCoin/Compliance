@@ -11,6 +11,8 @@ Securities Exchange Act of 1934. https://www.law.cornell.edu/wex/securities_exch
 
 18 U.S.C. § 1960 (2021). https://www.law.cornell.edu/uscode/text/18/1960
 
+26 U.S.C. §§ 1 - 1564 (2022), https://www.law.cornell.edu/uscode/text/26/subtitle-A.
+
 # Case Law
 
 SEC v. Howey Co. 328 US 293 (1946). https://tile.loc.gov/storage-services/service/ll/usrep/usrep328/usrep328293/usrep328293.pdf
