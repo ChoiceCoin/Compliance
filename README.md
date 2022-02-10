@@ -47,6 +47,8 @@ U.S. Securities and Exchange Commission, Framework for “Investment Contract”
 
 What Constitutes a Security and Requirements Relating to the Offer and Sales of Securities and Exemptions From Registration Associated Therewith, American Bar Association, Business Law Section (April 27, 2017).
 
+IRS, Virtual Currencies (2022), https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies.
+
 # Corporate Filings
 
 Coinbase, 10Q (2021). https://d18rn0p25nwr6d.cloudfront.net/CIK-0001679788/dcec079b-3237-4ae0-a54d-479ded972ab8.pdf
