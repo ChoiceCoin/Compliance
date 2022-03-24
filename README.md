@@ -21,6 +21,9 @@ SEC v. Ripple Labs, 20 Civ. 10832 (2020). https://www.sec.gov/litigation/complai
 
 SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021). https://www.sec.gov/litigation/litreleases/2021/lr25060.htm
 
+Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
+The DAO (July 25, 2017), https://www.sec.gov/litigation/investreport/34-81207.pdf.
+
 Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
 
 Griswold v. Connecticut, 381 U.S. 479 (1965).
