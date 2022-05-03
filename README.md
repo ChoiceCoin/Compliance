@@ -21,6 +21,8 @@ United Housing Foundation, Inc. v. Forman, 421 U.S. 837 (1975).
 
 Curran v. Merrill Lynch, Pierce, Fenner and Smith, Inc., 622 F.2d 216, 221 (6th Cir. 1980).
 
+Stenger v. R.H. Love Galleries, Inc., 741 F.2d 144, 146-47 (7th Cir. 1984).
+
 SEC v. Ripple Labs, 20 Civ. 10832 (2020). https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf
 
 SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021). https://www.sec.gov/litigation/litreleases/2021/lr25060.htm
