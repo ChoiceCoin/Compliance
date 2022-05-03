@@ -58,6 +58,8 @@ IRS, Virtual Currencies (2022), https://www.irs.gov/businesses/small-businesses-
 
 IRS, Notice 2014-21, (2014), https://www.irs.gov/pub/irs-drop/n-14-21.pdf.
 
+Defining An "Investment Contract": The Commonality Requirement Of The Howey Test, 43 Wash. & Lee L. Rev. 1057 (1986), https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=2882&context=wlulr.
+
 # Corporate Filings
 
 Coinbase, 10Q (2021). https://d18rn0p25nwr6d.cloudfront.net/CIK-0001679788/dcec079b-3237-4ae0-a54d-479ded972ab8.pdf
