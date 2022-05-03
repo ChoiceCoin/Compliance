@@ -38,7 +38,7 @@ In Re: Erik T. Voorhees (June 3, 2014), https://www.sec.gov/news/press-release/2
 
 Lil Yachty v. Opulous (January 27, 2022), https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.
 
-In the Matter of BlockFi Lending LLLC (February 14, 2022), https://www.sec.gov/news/press-release/2022-26.
+In the Matter of BlockFi Lending LLC (February 14, 2022), https://www.sec.gov/news/press-release/2022-26.
 
 # Secondary Sources
 
