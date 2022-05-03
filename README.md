@@ -48,6 +48,8 @@ Securities and Exchange Commission v.  v. Barkdale and Barkdale (March 8, 2022),
 
 Securities and Exchange Commission v. Ginster (Novemer 18, 2021), https://www.sec.gov/news/press-release/2021-237.
 
+In the Matter of Poloniex, LLC (August 9, 2021), https://www.sec.gov/news/press-release/2021-147.
+
 # Secondary Sources
 
 U.S. Department of Justice, Cryptocurrency Enforcement Framework, Report of The Attorney General’s Cyber
