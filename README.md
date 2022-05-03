@@ -40,6 +40,14 @@ Lil Yachty v. Opulous (January 27, 2022), https://www.courthousenews.com/wp-cont
 
 In the Matter of BlockFi Lending LLC (February 14, 2022), https://www.sec.gov/news/press-release/2022-26.
 
+Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capital GP I, LLC and Japheth Dillman, Civ. Action, o. 3:22-cv-02563 (N.D. Cal. Filed April 27, 2022)
+
+Securities and Exchange Commission v. David B. Mata, Civ. Action, o. 3:22-cv-02565 (N.D. Cal. Filed April 27, 2022).
+
+Securities and Exchange Commission v.  v. Barkdale and Barkdale (March 8, 2022), https://www.sec.gov/news/press-release/2022-37?utm_medium=email&utm_source=govdelivery.
+
+Securities and Exchange Commission v. Ginster (Novemer 18, 2021), https://www.sec.gov/news/press-release/2021-237.
+
 # Secondary Sources
 
 U.S. Department of Justice, Cryptocurrency Enforcement Framework, Report of The Attorney General’s Cyber
@@ -65,6 +73,8 @@ IRS, Virtual Currencies (2022), https://www.irs.gov/businesses/small-businesses-
 IRS, Notice 2014-21, (2014), https://www.irs.gov/pub/irs-drop/n-14-21.pdf.
 
 Defining An "Investment Contract": The Commonality Requirement Of The Howey Test, 43 Wash. & Lee L. Rev. 1057 (1986), https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=2882&context=wlulr.
+
+SEC Cryptocurrency Enforcement, Economic and Financial Consulting and Expert Testimony (2021), https://www.cornerstone.com/wp-content/uploads/2022/01/SEC-Cryptocurrency-Enforcement-2021-Update.pdf.
 
 # Corporate Filings
 
