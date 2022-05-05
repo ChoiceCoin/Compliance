@@ -19,7 +19,7 @@ Securities Exchange Act of 1934. https://www.law.cornell.edu/wex/securities_exch
 
 26 U.S.C. §§ 1 - 1564 (2022), https://www.law.cornell.edu/uscode/text/26/subtitle-A.
 
-# Case Law
+# Securities Case Law
 
 SEC v. Howey Co. 328 US 293 (1946). https://tile.loc.gov/storage-services/service/ll/usrep/usrep328/usrep328293/usrep328293.pdf
 
@@ -29,15 +29,19 @@ Curran v. Merrill Lynch, Pierce, Fenner and Smith, Inc., 622 F.2d 216, 221 (6th 
 
 Stenger v. R.H. Love Galleries, Inc., 741 F.2d 144, 146-47 (7th Cir. 1984).
 
-SEC v. Ripple Labs, 20 Civ. 10832 (2020). https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf
-
-SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021). https://www.sec.gov/litigation/litreleases/2021/lr25060.htm
+# Other Case Law
 
 Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
 
 Griswold v. Connecticut, 381 U.S. 479 (1965).
 
 Lil Yachty v. Opulous (January 27, 2022), https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.
+
+# Blockchain Enforcement
+
+SEC v. Ripple Labs, 20 Civ. 10832 (2020). https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf
+
+SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021). https://www.sec.gov/litigation/litreleases/2021/lr25060.htm
 
 Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capital GP I, LLC and Japheth Dillman, Civ. Action, o. 3:22-cv-02563 (N.D. Cal. Filed April 27, 2022).
 
