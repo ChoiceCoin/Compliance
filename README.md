@@ -27,18 +27,11 @@ SEC v. Ripple Labs, 20 Civ. 10832 (2020). https://www.sec.gov/litigation/complai
 
 SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021). https://www.sec.gov/litigation/litreleases/2021/lr25060.htm
 
-Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
-The DAO (July 25, 2017). https://www.sec.gov/litigation/investreport/34-81207.pdf.
-
 Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
 
 Griswold v. Connecticut, 381 U.S. 479 (1965).
 
-In Re: Erik T. Voorhees (June 3, 2014), https://www.sec.gov/news/press-release/2014-111. 
-
 Lil Yachty v. Opulous (January 27, 2022), https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.
-
-In the Matter of BlockFi Lending LLC (February 14, 2022), https://www.sec.gov/news/press-release/2022-26.
 
 Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capital GP I, LLC and Japheth Dillman, Civ. Action, o. 3:22-cv-02563 (N.D. Cal. Filed April 27, 2022)
 
@@ -48,7 +41,14 @@ Securities and Exchange Commission v.  v. Barkdale and Barkdale (March 8, 2022),
 
 Securities and Exchange Commission v. Ginster (Novemer 18, 2021), https://www.sec.gov/news/press-release/2021-237.
 
+In Re: Erik T. Voorhees (June 3, 2014), https://www.sec.gov/news/press-release/2014-111. 
+
+In the Matter of BlockFi Lending LLC (February 14, 2022), https://www.sec.gov/news/press-release/2022-26.
+
 In the Matter of Poloniex, LLC (August 9, 2021), https://www.sec.gov/news/press-release/2021-147.
+
+Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
+The DAO (July 25, 2017). https://www.sec.gov/litigation/investreport/34-81207.pdf.
 
 # Secondary Sources
 
