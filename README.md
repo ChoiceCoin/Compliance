@@ -47,15 +47,15 @@ Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capita
 
 Securities and Exchange Commission v. David B. Mata, Civ. Action, o. 3:22-cv-02565 (N.D. Cal. Filed April 27, 2022).
 
-Securities and Exchange Commission v. Barksdale and Barksdale (March 8, 2022), https://www.sec.gov/news/press-release/2022-37?utm_medium=email&utm_source=govdelivery.
+Securities and Exchange Commission v. Barksdale and Barksdale (March 8, 2022). https://www.sec.gov/news/press-release/2022-37?utm_medium=email&utm_source=govdelivery.
 
-Securities and Exchange Commission v. Ginster (Novemer 18, 2021), https://www.sec.gov/news/press-release/2021-237.
+Securities and Exchange Commission v. Ginster (Novemer 18, 2021). https://www.sec.gov/news/press-release/2021-237.
 
-In Re: Erik T. Voorhees (June 3, 2014), https://www.sec.gov/news/press-release/2014-111. 
+In Re: Erik T. Voorhees (June 3, 2014). https://www.sec.gov/news/press-release/2014-111. 
 
-In the Matter of BlockFi Lending LLC (February 14, 2022), https://www.sec.gov/news/press-release/2022-26.
+In the Matter of BlockFi Lending LLC (February 14, 2022). https://www.sec.gov/news/press-release/2022-26.
 
-In the Matter of Poloniex, LLC (August 9, 2021), https://www.sec.gov/news/press-release/2021-147.
+In the Matter of Poloniex, LLC (August 9, 2021). https://www.sec.gov/news/press-release/2021-147.
 
 Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
 The DAO (July 25, 2017). https://www.sec.gov/litigation/investreport/34-81207.pdf.
@@ -80,13 +80,13 @@ U.S. Securities and Exchange Commission, Framework for “Investment Contract”
 
 What Constitutes a Security and Requirements Relating to the Offer and Sales of Securities and Exemptions From Registration Associated Therewith, American Bar Association, Business Law Section (April 27, 2017).
 
-IRS, Virtual Currencies (2022), https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies.
+IRS, Virtual Currencies (2022). https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies.
 
 IRS, Notice 2014-21, (2014), https://www.irs.gov/pub/irs-drop/n-14-21.pdf.
 
-Defining An "Investment Contract": The Commonality Requirement Of The Howey Test, 43 Wash. & Lee L. Rev. 1057 (1986), https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=2882&context=wlulr.
+Defining An "Investment Contract": The Commonality Requirement Of The Howey Test, 43 Wash. & Lee L. Rev. 1057 (1986). https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=2882&context=wlulr.
 
-SEC Cryptocurrency Enforcement, Economic and Financial Consulting and Expert Testimony (2021), https://www.cornerstone.com/wp-content/uploads/2022/01/SEC-Cryptocurrency-Enforcement-2021-Update.pdf.
+SEC Cryptocurrency Enforcement, Economic and Financial Consulting and Expert Testimony (2021). https://www.cornerstone.com/wp-content/uploads/2022/01/SEC-Cryptocurrency-Enforcement-2021-Update.pdf.
 
 # Corporate Filings
 
