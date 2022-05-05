@@ -47,7 +47,7 @@ Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capita
 
 Securities and Exchange Commission v. David B. Mata, Civ. Action, o. 3:22-cv-02565 (N.D. Cal. Filed April 27, 2022).
 
-Securities and Exchange Commission v.  v. Barkdale and Barkdale (March 8, 2022), https://www.sec.gov/news/press-release/2022-37?utm_medium=email&utm_source=govdelivery.
+Securities and Exchange Commission v. Barkdale and Barkdale (March 8, 2022), https://www.sec.gov/news/press-release/2022-37?utm_medium=email&utm_source=govdelivery.
 
 Securities and Exchange Commission v. Ginster (Novemer 18, 2021), https://www.sec.gov/news/press-release/2021-237.
 
