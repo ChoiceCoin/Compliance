@@ -33,7 +33,7 @@ Griswold v. Connecticut, 381 U.S. 479 (1965).
 
 Lil Yachty v. Opulous (January 27, 2022), https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.
 
-Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capital GP I, LLC and Japheth Dillman, Civ. Action, o. 3:22-cv-02563 (N.D. Cal. Filed April 27, 2022)
+Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capital GP I, LLC and Japheth Dillman, Civ. Action, o. 3:22-cv-02563 (N.D. Cal. Filed April 27, 2022).
 
 Securities and Exchange Commission v. David B. Mata, Civ. Action, o. 3:22-cv-02565 (N.D. Cal. Filed April 27, 2022).
 
