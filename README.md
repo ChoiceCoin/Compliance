@@ -17,7 +17,7 @@ Securities Exchange Act of 1934. https://www.law.cornell.edu/wex/securities_exch
 
 18 U.S.C. § 1960 (2021). https://www.law.cornell.edu/uscode/text/18/1960
 
-26 U.S.C. §§ 1 - 1564 (2022), https://www.law.cornell.edu/uscode/text/26/subtitle-A
+26 U.S.C. §§ 1 - 1564 (2022). https://www.law.cornell.edu/uscode/text/26/subtitle-A
 
 # Securities Case Law
 
