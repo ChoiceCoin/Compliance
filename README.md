@@ -82,7 +82,7 @@ What Constitutes a Security and Requirements Relating to the Offer and Sales of 
 
 IRS, Virtual Currencies (2022). https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies.
 
-IRS, Notice 2014-21, (2014), https://www.irs.gov/pub/irs-drop/n-14-21.pdf.
+IRS, Notice 2014-21, (2014). https://www.irs.gov/pub/irs-drop/n-14-21.pdf.
 
 Defining An "Investment Contract": The Commonality Requirement Of The Howey Test, 43 Wash. & Lee L. Rev. 1057 (1986). https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=2882&context=wlulr.
 
