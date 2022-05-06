@@ -35,7 +35,7 @@ Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
 
 Griswold v. Connecticut, 381 U.S. 479 (1965).
 
-Lil Yachty v. Opulous (January 27, 2022), https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.
+Lil Yachty v. Opulous (January 27, 2022). https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.
 
 # Blockchain Enforcement
 
