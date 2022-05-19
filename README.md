@@ -29,6 +29,8 @@ Curran v. Merrill Lynch, Pierce, Fenner and Smith, Inc., 622 F.2d 216, 221 (6th 
 
 Stenger v. R.H. Love Galleries, Inc., 741 F.2d 144, 146-47 (7th Cir. 1984).
 
+George R. Jarkesy, Jr. Patriot28, L.L.C., v. SEC, No. 20-61007 (5th Cir. 2022).
+
 # Other Case Law
 
 Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
