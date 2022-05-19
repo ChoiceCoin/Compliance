@@ -29,7 +29,7 @@ Curran v. Merrill Lynch, Pierce, Fenner and Smith, Inc., 622 F.2d 216, 221 (6th 
 
 Stenger v. R.H. Love Galleries, Inc., 741 F.2d 144, 146-47 (7th Cir. 1984).
 
-George R. Jarkesy, Jr. Patriot28, L.L.C., v. SEC, No. 20-61007 (5th Cir. 2022).
+George R. Jarkesy, Jr. Patriot28, L.L.C., v. SEC, No. 20-61007 (5th Cir. 2022). https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf
 
 # Other Case Law
 
