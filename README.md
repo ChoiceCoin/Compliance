@@ -41,26 +41,28 @@ Lil Yachty v. Opulous (January 27, 2022). https://www.courthousenews.com/wp-cont
 
 # Blockchain Enforcement
 
-SEC v. Ripple Labs, 20 Civ. 10832 (2020). https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf
+[SEC Enforcement Actions](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
 
-SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021). https://www.sec.gov/litigation/litreleases/2021/lr25060.htm
+[SEC v. Ripple Labs, 20 Civ. 10832 (2020).](https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf)
+
+[SEC v. LBRY, Inc., Civ No. 1:21-cv-00260 (D.N.H. March 29, 2021).](https://www.sec.gov/litigation/litreleases/2021/lr25060.htm)
 
 Securities and Exchange Commission v. Block Bits Capital, LLC, Block Bits Capital GP I, LLC and Japheth Dillman, Civ. Action, o. 3:22-cv-02563 (N.D. Cal. Filed April 27, 2022).
 
 Securities and Exchange Commission v. David B. Mata, Civ. Action, o. 3:22-cv-02565 (N.D. Cal. Filed April 27, 2022).
 
-Securities and Exchange Commission v. Barksdale and Barksdale (March 8, 2022). https://www.sec.gov/news/press-release/2022-37?utm_medium=email&utm_source=govdelivery.
+[Securities and Exchange Commission v. Barksdale and Barksdale (March 8, 2022).](https://www.sec.gov/news/press-release/2022-37?utm_medium=email&utm_source=govdelivery.)
 
-Securities and Exchange Commission v. Ginster (Novemer 18, 2021). https://www.sec.gov/news/press-release/2021-237.
+[Securities and Exchange Commission v. Ginster (Novemer 18, 2021).](https://www.sec.gov/news/press-release/2021-237.)
 
-In Re: Erik T. Voorhees (June 3, 2014). https://www.sec.gov/news/press-release/2014-111. 
+[In Re: Erik T. Voorhees (June 3, 2014).](https://www.sec.gov/news/press-release/2014-111.)
 
-In the Matter of BlockFi Lending LLC (February 14, 2022). https://www.sec.gov/news/press-release/2022-26.
+[In the Matter of BlockFi Lending LLC (February 14, 2022).](https://www.sec.gov/news/press-release/2022-26.)
 
-In the Matter of Poloniex, LLC (August 9, 2021). https://www.sec.gov/news/press-release/2021-147.
+[In the Matter of Poloniex, LLC (August 9, 2021).](https://www.sec.gov/news/press-release/2021-147.)
 
-Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
-The DAO (July 25, 2017). https://www.sec.gov/litigation/investreport/34-81207.pdf.
+[Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
+The DAO (July 25, 2017).](https://www.sec.gov/litigation/investreport/34-81207.pdf.)
 
 # Secondary Sources
 
