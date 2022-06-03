@@ -39,8 +39,6 @@ Griswold v. Connecticut, 381 U.S. 479 (1965).
 
 [Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
-[U.S. v. Chastain (Wednesday, June 1, 2022).](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
-
 # Blockchain Enforcement
 
 [SEC Enforcement Actions](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
@@ -65,6 +63,8 @@ Securities and Exchange Commission v. David B. Mata, Civ. Action, o. 3:22-cv-025
 
 [Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
 The DAO (July 25, 2017).](https://www.sec.gov/litigation/investreport/34-81207.pdf.)
+
+[U.S. v. Chastain (Wednesday, June 1, 2022).](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
 
 # Secondary Sources
 
