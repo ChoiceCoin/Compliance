@@ -39,7 +39,7 @@ Griswold v. Connecticut, 381 U.S. 479 (1965).
 
 [Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
-U.S. v. Chastain (Wednesday, June 1, 2022).
+[U.S. v. Chastain (Wednesday, June 1, 2022).](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
 
 # Blockchain Enforcement
 
