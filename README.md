@@ -76,6 +76,8 @@ Circuit Standards, 6 J. BUS. & TECH. L 231 (2011).](https://digitalcommons.law.u
 
 [Brian Haney, Cryptosecurity: An Analysis of Cryptocurrency Security and Securities, Tulane Journal of Technology & Intellectual Property, Vol. 24 (2021).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880112)
 
+[Crpto Compliance](https://forum.algorand.org/t/crypto-compliance/7097), Algorand Developer Forum (2022).
+
 Riley T. Svikhart, Blockchain’s Big Hurdle, 70 STAN. L. REV. ONLINE 100, 101 (2017).
 
 [Commissioner Hester M. Peirce, Token Safe Harbor Proposal, SEC Statement (April 13, 2021).](https://www.sec.gov/news/public-statement/peirce-statement-token-safe-harbor-proposal-2.0)
