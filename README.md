@@ -76,10 +76,6 @@ Circuit Standards, 6 J. BUS. & TECH. L 231 (2011).](https://digitalcommons.law.u
 
 [Brian Haney, Cryptosecurity: An Analysis of Cryptocurrency Security and Securities, Tulane Journal of Technology & Intellectual Property, Vol. 24 (2021).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880112)
 
-[Crpto Compliance, Algorand Developer Forum (2022).](https://forum.algorand.org/t/crypto-compliance/7097)
-
-[Choice Coin Compliance, Solana Developer Forum (2022).](https://forums.solana.com/t/choice-coin-compliance/8372)
-
 Riley T. Svikhart, Blockchain’s Big Hurdle, 70 STAN. L. REV. ONLINE 100, 101 (2017).
 
 [Commissioner Hester M. Peirce, Token Safe Harbor Proposal, SEC Statement (April 13, 2021).](https://www.sec.gov/news/public-statement/peirce-statement-token-safe-harbor-proposal-2.0)
@@ -105,3 +101,9 @@ What Constitutes a Security and Requirements Relating to the Offer and Sales of 
 [Microstrategy, 10K (2021).](https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/financial-document-archive/Form-10-K_01-12-2021.pdf)
 
 [Tesla, 10K (2021).](https://ir.tesla.com/_flysystem/s3/sec/000156459021022604/tsla-10ka_20201231-gen.pdf)
+
+# Developer Forum Posts
+
+[Crpto Compliance, Algorand Developer Forum (2022).](https://forum.algorand.org/t/crypto-compliance/7097)
+
+[Choice Coin Compliance, Solana Developer Forum (2022).](https://forums.solana.com/t/choice-coin-compliance/8372)
