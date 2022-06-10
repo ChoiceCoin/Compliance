@@ -33,6 +33,9 @@ Not done yet. Several Bugs to fix
 ## Images
 ![Choice Coin Solana Private Key Login](https://github.com/dhanzy/Compliance/blob/main/SolBash/dhanny_solbash/app/assets/img/private_key_login.png?raw=true)
 
+
+![dashboard](https://user-images.githubusercontent.com/33403043/173162222-437b8c07-76b3-4444-b776-51c9361e4977.png)
+
 ## Tech stack
 
 
