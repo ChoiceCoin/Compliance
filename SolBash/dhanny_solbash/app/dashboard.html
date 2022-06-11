@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Choice Coin Compliance</title>
+    <script defer src="./assets/js/render.js"></script>
+    <link rel="stylesheet" href="../node_modules/bulma/css/bulma.min.css" />
+  </head>
+  <body>
+    <div>
+      <header>
+        <nav class="navbar" role="navigation" style="padding-top: 10px">
+          <div class="container is-fluid">
+            <div class="navbar-brand">
+              <img src="assets/img/choice-coin.png" width="50" height="28" />
+            </div>
+
+            <div class="navbar-end">
+              <div class="navbar-item">
+                <div class="buttons"></div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </header>
+      <main style="margin-top: 15px">
+        <div class="container is-fluid">
+          <div class="columns">
+            <div class="column">
+              <form onSubmit="getVal(event)">
+                <div>
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        name="equity"
+                        id="equity"
+                        class="input"
+                        placeholder="Equity"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        class="input"
+                        name="decentralization"
+                        id="decentralization"
+                        placeholder="Decentralization"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        class="input"
+                        name="participation"
+                        id="participation"
+                        placeholder="Participation"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        class="input"
+                        name="investment"
+                        id="investment"
+                        placeholder="Investment"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        name="utility"
+                        class="input"
+                        id="utility"
+                        placeholder="Utility"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        name="purpose"
+                        class="input"
+                        id="purpose"
+                        placeholder="Purpose"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        name="control"
+                        class="input"
+                        id="control"
+                        placeholder="Control"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        class="input"
+                        id="derivatives"
+                        name="derivatives"
+                        placeholder="Derivatives"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <div class="control">
+                      <input
+                        type="text"
+                        class="input"
+                        id="comp-score"
+                        name="comp-score"
+                        placeholder="Compliance Score"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div style="margin-top: 40px">
+                    <button class="button is-outlined is-info" type="submit">
+                      Calculate SPL Token Compilation
+                    </button>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div class="column is-one-third">
+              <div>
+                <h1 class="has-text-weight-bol d">Result</h1>
+                <div></div>
+                <div class="log"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
