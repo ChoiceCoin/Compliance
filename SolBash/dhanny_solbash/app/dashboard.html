@@ -4,26 +4,42 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>Choice Coin Compliance</title>
-    <script defer src="./assets/js/render.js"></script>
+
+    <script defer src="./assets/js/dashboard.js"></script>
     <link rel="stylesheet" href="../node_modules/bulma/css/bulma.min.css" />
   </head>
   <body>
     <div>
       <header>
-        <nav class="navbar" role="navigation" style="padding-top: 10px">
-          <div class="container is-fluid">
+        <div class="container is-fluid">
+          <nav class="navbar is-transparent" style="padding-top: 10px">
             <div class="navbar-brand">
               <img src="assets/img/choice-coin.png" width="50" height="28" />
             </div>
 
             <div class="navbar-end">
               <div class="navbar-item">
-                <div class="buttons"></div>
+                Balance:
+                <span
+                  class="has-text-primary"
+                  style="margin-left: 10px; font-weight: bolder"
+                  >0 SOL</span
+                >
+              </div>
+              <div class="navbar-item">
+                <div class="field">
+                  <p class="control">
+                    <a class="button is-info">
+                      <span id="walletAddress"></span>
+                    </a>
+                  </p>
+                </div>
               </div>
             </div>
-          </div>
-        </nav>
+          </nav>
+        </div>
       </header>
       <main style="margin-top: 15px">
         <div class="container is-fluid">

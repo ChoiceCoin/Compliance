@@ -1,4 +1,15 @@
 const Store = require('electron-store');
 
 const store = new Store();
-module.exports.store = store;
+
+exports.getWallet = async () => {
+  let wallet = await store.get('wallet');
+  if (wallet != null) {
+    return wallet;
+  }
+  return null;
+};
+
+exports.storeWallet = (wallet) => {
+  store.set('wallet', wallet);
+};

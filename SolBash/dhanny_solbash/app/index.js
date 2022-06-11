@@ -1,17 +1,21 @@
 const { app, BrowserWindow, ipcMain } = require('electron');
 const electron = require('electron');
+const ElectronStore = require('electron-store');
+
 try {
   require('electron-reloader')(module);
 } catch (_) {}
 
 let win;
 
+ElectronStore.initRenderer();
+
 const createWindow = () => {
   display = electron.screen.getPrimaryDisplay();
 
   win = new BrowserWindow({
     icon: __dirname + '/assets/img/choice-coin.png',
-    width: 900,
+    width: 1100,
     height: 720,
     show: false,
     fullscreen: false,
@@ -21,16 +25,14 @@ const createWindow = () => {
     transparent: true,
     webPreferences: {
       nodeIntegration: true,
-      contextIsolation: false,
-      enableRemoteModule: true,
-      webSecurity: false
+      contextIsolation: false
     }
   });
 
-  win.loadFile(__dirname + '/index.html');
+  win.loadURL(`file://${__dirname}/index.html`);
 
   ipcMain.on('connected', (event) => {
-    win.loadFile(__dirname + '/dashboard.html');
+    win.loadURL(`file://${__dirname}/dashboard.html`);
   });
 
   win.on('closed', () => {
@@ -39,7 +41,7 @@ const createWindow = () => {
   win.webContents.on('did-finish-load', function () {
     win.show();
   });
-  win.webContents.openDevTools();
+  // win.webContents.openDevTools();
 };
 
 app.on('ready', createWindow);
