@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Choice Coin Compliance - Login</title>
+
+    <script
+      defer
+      type="text/javascript"
+      src="./assets/js/connectWallet.js"
+    ></script>
+
+    <link rel="stylesheet" href="../node_modules/bulma/css/bulma.min.css" />
+  </head>
+  <body>
+    <div>
+      <header>
+        <nav class="navbar" role="navigation" style="padding-top: 10px">
+          <div class="container is-fluid">
+            <div class="navbar-brand">
+              <img src="assets/img/choice-coin.png" width="50" height="28" />
+            </div>
+
+            <div class="navbar-end">
+              <div class="navbar-item">
+                <div class="buttons"></div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </header>
+      <main style="margin-top: 50px">
+        <div class="container is-fluid">
+          <div class="field is-horizontal">
+            <div class="field-label is-normal">
+              <label for="privateKey" class="label"> Private Key </label>
+            </div>
+            <div class="field-body">
+              <div class="field">
+                <div class="control">
+                  <input class="input" id="private_input" type="text" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="text-align: right; margin-top: 30px">
+            <button class="button is-info is-outlined" id="connectWallet">
+              Connect to Wallet
+            </button>
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
