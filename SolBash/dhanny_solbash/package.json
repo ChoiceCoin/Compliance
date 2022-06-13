@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@solana/web3.js": "^1.44.0",
-    "angular": "^1.8.3",
+    "angular": "",
     "angular-route": "^1.8.3",
     "bs58": "^5.0.0",
     "bulma": "^0.9.4",
