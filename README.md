@@ -1,5 +1,5 @@
 # Compliance
-This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corupus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public.
+This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corupus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public. For Choice Coin Compliance on Solana, see [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance).
 
 # Disclaimer
 
