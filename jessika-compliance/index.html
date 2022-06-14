@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+		<link rel="icon" href="logo.jpeg" />
+		<link rel="stylesheet" href="style.css" />
+		<title>ChoiceCoin Compliance Calculator</title>
+	</head>
+
+	<body>
+		<div id="app">
+			<div class="container">
+				<div class="final-result">
+					<img alt="choice logo" src="logo.jpeg" />
+					<p>compliance score result: <span>{{ userdata }} </span></p>
+				</div>
+
+				<div class="data">
+					<h3>Equity: {{ equity }}</h3>
+					<select v-model="equity">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<div class="data">
+					<h3>Decentralization: {{ decentralization }}</h3>
+					<select v-model="decentralization">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<div class="data">
+					<h3>participation: {{ participation }}</h3>
+					<select v-model="participation">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<div class="data">
+					<h3>investment: {{ investment }}</h3>
+					<select v-model="investment">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<div class="data">
+					<h3>utility: {{ utility }}</h3>
+					<select v-model="utility">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<div class="data">
+					<h3>purpose: {{ purpose }}</h3>
+					<select v-model="purpose">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<div class="data">
+					<h3>control: {{ control }}</h3>
+					<select v-model="control">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<div class="data">
+					<h3>derivatives: {{ derivatives }}</h3>
+					<select v-model="derivatives">
+						<option disabled value="">Please select 1 option</option>
+						<option
+							v-for="detail in details"
+							:key="detail"
+							v-bind:value="detail.score"
+						>
+							{{ detail.values }}
+						</option>
+					</select>
+				</div>
+
+				<button @click="calculate">calculate compliance score</button>
+			</div>
+		</div>
+		<script src="https://unpkg.com/vue@3"></script>
+		<script src="app.js" />
+	</body>
+</html>
