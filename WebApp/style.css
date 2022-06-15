@@ -1,12 +1,12 @@
 span {
 		border: 1px solid;
 		padding: 5px;
-	}
-	img {
-		margin-left: 50%;
-		height: 60px;
-		text-align: center;
-	}
+}
+
+img {
+	height: 60px;
+	text-align: center;
+}
 	.container {
 		border-radius: 5px;
 		font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -20,8 +20,6 @@ span {
 		width: 600px;
 		background-color: rgba(33, 90, 141, 0.311);
 		box-shadow: 0 1px 0 1px rgba(128, 128, 128, 0.401);
-		position: absolute;
-		left: 35%;
 	}
 
 	.data {
@@ -60,22 +58,31 @@ span {
 		cursor: pointer;
 	}
 
-	.final-result {
-		width: 100%;
-		border: 1px dashed gray;
-	}
-.final-result img{
-    background-color: red;
-   position: absolute;
-   right: 90%;
+.final-result {
+	width: 100%;
+	border: 1px dashed gray;
+	display: flex;
 }
 
 
-	.final-result p {
-		text-transform: capitalize;
-		padding: 5px;
-		font-size: 16px;
-		letter-spacing: 2px;
-		font-weight: bolder;
-		margin-left: 90px;
-	}
+.final-result p {
+	text-transform: capitalize;
+	padding: 5px;
+	font-size: 16px;
+	letter-spacing: 2px;
+	font-weight: bolder;
+	margin-left: 90px;
+}
+#app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.warning {
+	padding: 20px;
+	background-color: #f44336;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
