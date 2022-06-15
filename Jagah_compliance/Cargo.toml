@@ -1,0 +1,14 @@
+cargo-features = ["edition2021"]
+[package]
+name = "solana_compliance_program"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+solana-program = "=1.7.14"
+
+
+[lib]
+crate-type = ["cdylib", "lib"]
