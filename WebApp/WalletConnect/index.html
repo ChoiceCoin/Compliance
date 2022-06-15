@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="logo.jpeg" />
+    <link rel="stylesheet" href="style.css" />
+    <title>ChoiceCoin Compliance Calculator</title>
+    <script src="https://unpkg.com/vue@3"></script>
+  </head>
+
+  <body>
+    <div id="app">
+      <div class="warning" v-if="!phantomExist">
+        Phantom extension not installed. Head over to
+        <a href="https://phantom.app/download" target="_blank">Phantom</a> to
+        get a wallet.
+      </div>
+      <div class="container">
+        <div class="final-result">
+          <img alt="choice logo" src="logo.jpeg" />
+          <p>compliance score result: <span>{{ userdata2 }} </span></p>
+        </div>
+
+        <div class="data">
+          <h3>Equity</h3>
+          <select v-model="equity">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+
+        <div class="data">
+          <h3>Decentralization</h3>
+          <select v-model="decentralization">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+
+        <div class="data">
+          <h3>participation</h3>
+          <select v-model="participation">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+
+        <div class="data">
+          <h3>investment</h3>
+          <select v-model="investment">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+
+        <div class="data">
+          <h3>utility</h3>
+          <select v-model="utility">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+
+        <div class="data">
+          <h3>purpose: {{ purpose }}</h3>
+          <select v-model="purpose">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+
+        <div class="data">
+          <h3>control</h3>
+          <select v-model="control">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+
+        <div class="data">
+          <h3>derivatives</h3>
+          <select v-model="derivatives">
+            <option disabled value="">Please select 1 option</option>
+            <option
+              v-for="detail in details"
+              :key="detail"
+              v-bind:value="detail.score"
+            >
+              {{ detail.values }}
+            </option>
+          </select>
+        </div>
+        <div>
+          <button
+            disabled="disabled"
+            v-if="connectedWallet"
+            style="overflow: hidden"
+          >
+            {{String(connectedWallet).substring(0,20) + "..."}}
+          </button>
+          <button @click="connectWallet" v-else>Connect Wallet</button>
+        </div>
+        <button @click="calculate">calculate compliance score</button>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
