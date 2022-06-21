@@ -97,6 +97,8 @@ What Constitutes a Security and Requirements Relating to the Offer and Sales of 
 
 [SEC Cryptocurrency Enforcement, Economic and Financial Consulting and Expert Testimony (2021).](https://www.cornerstone.com/wp-content/uploads/2022/01/SEC-Cryptocurrency-Enforcement-2021-Update.pdf.)
 
+[SEC, The DAO Report (2017).](https://www.sec.gov/news/press-release/2017-131)
+
 # Legislation
 [Lummis-Gillibrand Responsible Financial Innovation Act](https://www.gillibrand.senate.gov/imo/media/doc/Lummis-Gillibrand%20Responsible%20Financial%20Innovation%20Act%20%5bFinal%5d.pdf)
 
