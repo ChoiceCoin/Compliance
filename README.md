@@ -5,7 +5,7 @@ This repository contains software for compliance. Accelerating excellence in com
 
 For Choice Coin Compliance on Solana, see [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance). 
 
-For Choice Coin Compliance on Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-ATX-DAO-Austin-Hackathon).
+For Choice Coin Compliance on Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-Algorand-Hackathon).
 
 # Compliance AI
 The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance.
