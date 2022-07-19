@@ -5,9 +5,6 @@ import { PeraWalletConnect } from "@perawallet/connect";
 
 const perawallet = new PeraWalletConnect()
 
-
-
-
 // React functions must return a React component
 const App = () => {
 
