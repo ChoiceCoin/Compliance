@@ -1,6 +1,7 @@
 // Imports
 import './App.css';
 //import algosdk from "algosdk";
+//import { PeraWalletConnect } from "@perawallet/connect";
 
 // Compliance
 function ChoiceCompliance() {
@@ -27,11 +28,14 @@ function ChoiceCompliance() {
 function WalletConnect() {
   const wallet = () => {
     console.log('Connect')
+    //const perawallet = new PeraWalletConnect()
   }
   return(
     <button onClick={wallet}>Connect Wallet</button>
   )
 };
+
+
 
 // React functions must return a React component
 function App() {
@@ -42,17 +46,39 @@ function App() {
           Choice Coin Compliance
         </h1>
         <div>
-          Factor One
+          <p>
+            <div>
+            Equity
+            </div>
+            <div>
+            Does the asset represent an equity interest in a company?
+            </div>
+            <div>
+              <option disabled value="default" >Please select one option.</option>
+            </div>
+          </p>
         </div>
         <div>
-          Factor Two
+          <p>
+            <div>
+            Decentralization
+            </div>
+            <div>
+            How decentralized is the asset?
+            </div>
+            <div>
+              <option disabled value="default" >Please select one option.</option>
+            </div>
+          </p>
         </div>
-        <div>
-        <WalletConnect />
-        </div>
-        <div>
-        <ChoiceCompliance />
-        </div>
+        <p>
+          <div>
+          <WalletConnect />
+          </div>
+          <div>
+          <ChoiceCompliance />
+          </div>
+        </p>
       </header>
     </div>
   );
