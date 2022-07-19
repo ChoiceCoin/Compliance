@@ -1,44 +1,38 @@
 // Imports
 import './App.css';
 //import algosdk from "algosdk";
-//import { PeraWalletConnect } from "@perawallet/connect";
+import { PeraWalletConnect } from "@perawallet/connect";
 
-// Compliance
-function ChoiceCompliance() {
-   // Algorand Network Connection
-   const algod_token = {
-    'X-API-Key': ''
-  }
-  const algod_address = '';
-  const headers = '';
-  const ASSET_ID = 297995609;
-  //const algodClient = new algosdk.Algodv2(algod_token, algod_address, headers);
-  const serviceAddress = ''
+const perawallet = new PeraWalletConnect()
 
-  // Contract
-  const compliance = () => {
-    console.log('Compliance')
-  }
-  return (
-    <button onClick={compliance}>Calculate Compliance</button>
-  )
-};
-
-// Wallet Connect
-function WalletConnect() {
-  const wallet = () => {
-    console.log('Connect')
-    //const perawallet = new PeraWalletConnect()
-  }
-  return(
-    <button onClick={wallet}>Connect Wallet</button>
-  )
-};
 
 
 
 // React functions must return a React component
-function App() {
+const App = () => {
+
+  // Algorand Network Connection
+  const algod_token = {
+   'X-API-Key': ''
+ }
+ const algod_address = '';
+ const headers = '';
+ const ASSET_ID = 297995609;
+ //const algodClient = new algosdk.Algodv2(algod_token, algod_address, headers);
+ const serviceAddress = ''
+
+ // Contract
+const compliance = () => {
+   console.log('Compliance')
+ 
+};
+
+// Wallet Connect
+const walletConnect = async () => {
+  await perawallet.connect()
+console.log('wallet connect')
+};
+
   return (
     <div className="App">
       <header className="App-header">
@@ -73,10 +67,10 @@ function App() {
         </div>
         <p>
           <div>
-          <WalletConnect />
+          <button onClick={walletConnect}>Connect Wallet</button>
           </div>
           <div>
-          <ChoiceCompliance />
+          <button onClick={compliance}>Calculate Compliance</button>
           </div>
         </p>
       </header>
@@ -85,4 +79,4 @@ function App() {
 
 }
 
-export default App;
+export default App
