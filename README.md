@@ -1,5 +1,11 @@
 # Compliance
-This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corupus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public. The software is open source and may be used by anyone, subject to the terms and conditions of the [License](https://github.com/ChoiceCoin/Compliance/blob/main/LICENSE).
+This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corupus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public. The software is open source and may be used by anyone, subject to the terms and conditions of the [License](https://github.com/ChoiceCoin/Compliance/blob/main/LICENSE) and Disclaimer below.
+
+# Disclaimer
+
+*This repository is for compliance purposes only.
+Nothing in this repository is or should be considered legal advice. 
+Nothing in this repository can replace a lawyers advice or counsel.*
 
 # Cross-Chain Capability
 
@@ -9,12 +15,6 @@ For Choice Coin Compliance on Algorand, see [Encode-x-Hackathon](https://github.
 
 # Compliance AI
 The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance.
-
-# Disclaimer
-
-*This repository is for compliance purposes only.
-Nothing in this repository is or should be considered legal advice. 
-Nothing in this repository can replace a lawyers advice or counsel.*
 
 # Statutory Authorities
 
