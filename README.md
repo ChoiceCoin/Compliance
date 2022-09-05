@@ -34,17 +34,17 @@ The Choice Coin Compliance AI is designed to statistically measure digital asset
 
 [United Housing Foundation, Inc. v. Forman, 421 U.S. 837 (1975).](https://www.lexisnexis.com/community/casebrief/p/casebrief-united-hous-found-inc-v-forman)
 
-Curran v. Merrill Lynch, Pierce, Fenner and Smith, Inc., 622 F.2d 216, 221 (6th Cir. 1980).
+[Curran v. Merrill Lynch, Pierce, Fenner and Smith, Inc., 622 F.2d 216, 221 (6th Cir. 1980).](https://supreme.justia.com/cases/federal/us/456/353/)
 
-Stenger v. R.H. Love Galleries, Inc., 741 F.2d 144, 146-47 (7th Cir. 1984).
+[Stenger v. R.H. Love Galleries, Inc., 741 F.2d 144, 146-47 (7th Cir. 1984).](https://casetext.com/case/stenger-v-rh-love-galleries-inc)
 
 [George R. Jarkesy, Jr. Patriot28, L.L.C., v. SEC, No. 20-61007 (5th Cir. 2022).](https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf)
 
 # Other Case Law
 
-Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).
+[Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).](https://supreme.justia.com/cases/federal/us/467/986/)
 
-Griswold v. Connecticut, 381 U.S. 479 (1965).
+[Griswold v. Connecticut, 381 U.S. 479 (1965).](https://supreme.justia.com/cases/federal/us/381/479/)
 
 [Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
