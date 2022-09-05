@@ -32,7 +32,7 @@ The Choice Coin Compliance AI is designed to statistically measure digital asset
 
 [SEC v. Howey Co. 328 US 293 (1946).](https://tile.loc.gov/storage-services/service/ll/usrep/usrep328/usrep328293/usrep328293.pdf)
 
-United Housing Foundation, Inc. v. Forman, 421 U.S. 837 (1975).
+[United Housing Foundation, Inc. v. Forman, 421 U.S. 837 (1975).](https://www.lexisnexis.com/community/casebrief/p/casebrief-united-hous-found-inc-v-forman)
 
 Curran v. Merrill Lynch, Pierce, Fenner and Smith, Inc., 622 F.2d 216, 221 (6th Cir. 1980).
 
