@@ -93,7 +93,7 @@ Circuit Standards, 6 J. BUS. & TECH. L 231 (2011).](https://digitalcommons.law.u
 
 [U.S. Securities and Exchange Commission, Framework for “Investment Contract” Analysis of Digital Assets (April 3, 2019).](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets)
 
-What Constitutes a Security and Requirements Relating to the Offer and Sales of Securities and Exemptions From Registration Associated Therewith, American Bar Association, Business Law Section (April 27, 2017).
+[What Constitutes a Security and Requirements Relating to the Offer and Sales of Securities and Exemptions From Registration Associated Therewith, American Bar Association, Business Law Section (April 27, 2017).](https://www.americanbar.org/groups/business_law/publications/blt/2017/04/06_loev/)
 
 [IRS, Virtual Currencies (2022).](https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies.)
 
