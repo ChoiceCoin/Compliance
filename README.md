@@ -118,6 +118,6 @@ What Constitutes a Security and Requirements Relating to the Offer and Sales of 
 
 # Developer Forum Posts
 
-[Crpto Compliance, Algorand Developer Forum (2022).](https://forum.algorand.org/t/crypto-compliance/7097)
+[Crypto Compliance, Algorand Developer Forum (2022).](https://forum.algorand.org/t/crypto-compliance/7097)
 
 [Choice Coin Compliance, Solana Developer Forum (2022).](https://forums.solana.com/t/choice-coin-compliance/8372)
