@@ -15,7 +15,7 @@ For Choice Coin Compliance on Algorand, see [Encode-x-Hackathon](https://github.
 
 # Compliance AI
 
-The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance. The goal for the Compliance AI is to use an evolving [regulatory database](https://github.com/ChoiceCoin/Solana-Compliance/tree/main/Database) to inform smarter compliance decisions.
+The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance. The goal for the Compliance AI is to use an evolving [regulatory database](https://github.com/ChoiceCoin/Solana-Compliance/tree/main/Database) to inform smarter compliance decisions. [Choice Coin AI Demo](https://www.youtube.com/watch?v=95YdWmd5RIQ)
 
 # What is a security?
 
