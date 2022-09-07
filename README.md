@@ -14,7 +14,30 @@ For Choice Coin Compliance on Solana, see [Solana-Compliance](https://github.com
 For Choice Coin Compliance on Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-Algorand-Hackathon).
 
 # Compliance AI
+
 The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance. The goal for the Compliance AI is to use an evolving [regulatory database](https://github.com/ChoiceCoin/Solana-Compliance/tree/main/Database) to inform smarter compliance decisions.
+
+# What is a security?
+
+Broadly, there are two main types of securities: debt and equity. The [SEC website](https://www.sec.gov/education/capitalraising/building-blocks/startup-securities) includes six types of securities: stocks, membership interests, stock options, restricted stock units, convertible instruments, debt.  However, not listed among these six securities are digital assets, cryptocurrencies, or blockchains. 
+
+Securities are financial instruments, which represent an interest in equity or debt. The [Securities Act of 1933](https://www.law.cornell.edu/uscode/text/15/77b) defines Security:
+
+_“(1) The term “security” means any note, stock, treasury stock, security future, security-based swap, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a “security”, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing.”_ 
+
+The definition includes 30 total financial instruments as securities. But, digital assets are not one of them. Thus, only certain digital assets are considered securities under the scope of SEC regulation.  
+
+# The Howey Test
+
+Most analysis of digital assets as securities focuses on a seminal case in securities law, [Securities and Exchange Commission v. W.J. Howey Co et al.](https://www.law.cornell.edu/supremecourt/text/328/293) (Howey). In American Jurisprudence, Howey established the principle that, _“The test of an investment contract within Securities Act is whether [the] scheme involves an investment of money in a common enterprise with profits to come solely from efforts of others...”_  
+
+Since Howey, courts have adopted a four prong test, where each element must be met for a particular asset to be considered a security, it *must* include:
+
+  1. An investment of money;
+  2. In a common enterprise;
+  3. With a promise of profits; *and*
+  4. Profits promised solely from the efforts of others.
+
 
 # Statutory Authorities
 
