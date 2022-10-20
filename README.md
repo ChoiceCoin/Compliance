@@ -9,9 +9,9 @@ Nothing in this repository can replace a lawyers advice or counsel.*
 
 # Cross-Chain Capability
 
-For Choice Coin Compliance on Solana, see [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance). 
+Choice Coin Compliance for Solana, see [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance). 
 
-For Choice Coin Compliance on Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-Algorand-Hackathon).
+Choice Coin Compliance for Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-Algorand-Hackathon).
 
 # Compliance AI
 
