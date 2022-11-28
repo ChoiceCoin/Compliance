@@ -71,6 +71,8 @@ Since Howey, courts have adopted a four prong test, where each element must be m
 
 [Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
+[Complaint: Ooki, et al. (2022) and Order: BZeroX, LLC, et al.](https://www.cftc.gov/PressRoom/PressReleases/8590-22#:~:text=Number%208590%2D22-,CFTC%20Imposes%20%24250%2C000%20Penalty%20Against%20bZeroX%2C%20LLC%20and%20Its%20Founders,Comply%20with%20Bank%20Secrecy%20Act)
+
 # Blockchain Enforcement
 
 [SEC Enforcement Actions](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
