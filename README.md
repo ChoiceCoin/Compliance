@@ -63,14 +63,6 @@ Since Howey, courts have adopted a four prong test, where each element must be m
 
 [George R. Jarkesy, Jr. Patriot28, L.L.C., v. SEC, No. 20-61007 (5th Cir. 2022).](https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf)
 
-# Other Case Law
-
-[Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).](https://supreme.justia.com/cases/federal/us/467/986/)
-
-[Griswold v. Connecticut, 381 U.S. 479 (1965).](https://supreme.justia.com/cases/federal/us/381/479/)
-
-[Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
-
 # What is a commodity?
 
 The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.law.cornell.edu/uscode/text/7/1a). According to § 9,
@@ -108,6 +100,14 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 The DAO (July 25, 2017).](https://www.sec.gov/litigation/investreport/34-81207.pdf.)
 
 [U.S. v. Chastain (Wednesday, June 1, 2022).](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
+
+# Other Case Law
+
+[Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984).](https://supreme.justia.com/cases/federal/us/467/986/)
+
+[Griswold v. Connecticut, 381 U.S. 479 (1965).](https://supreme.justia.com/cases/federal/us/381/479/)
+
+[Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
 # Secondary Sources
 
