@@ -72,7 +72,7 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 # Commodities Case Law
 
-[Complaint: Ooki, et al. and Order: BZeroX, LLC, et al. (September 22, 2022)](https://www.cftc.gov/PressRoom/PressReleases/8590-22#:~:text=Number%208590%2D22-,CFTC%20Imposes%20%24250%2C000%20Penalty%20Against%20bZeroX%2C%20LLC%20and%20Its%20Founders,Comply%20with%20Bank%20Secrecy%20Act)
+[Complaint: Ooki, et al. and Order: BZeroX, LLC, et al. (September 22, 2022).](https://www.cftc.gov/PressRoom/PressReleases/8590-22#:~:text=Number%208590%2D22-,CFTC%20Imposes%20%24250%2C000%20Penalty%20Against%20bZeroX%2C%20LLC%20and%20Its%20Founders,Comply%20with%20Bank%20Secrecy%20Act)
 
 # Blockchain Enforcement
 
