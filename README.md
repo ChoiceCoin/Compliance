@@ -71,6 +71,13 @@ Since Howey, courts have adopted a four prong test, where each element must be m
 
 [Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
+# What is a commodity?
+
+The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.law.cornell.edu/uscode/text/7/1a). According to § 9,
+
+"The term “commodity” means wheat, cotton, rice, corn, oats, barley, rye, flaxseed, grain sorghums, mill feeds, butter, eggs, Solanum tuberosum (Irish potatoes), wool, wool tops, fats and oils (including lard, tallow, cottonseed oil, peanut oil, soybean oil, and all other fats and oils), cottonseed meal, cottonseed, peanuts, soybeans, soybean meal, livestock, livestock products, and frozen concentrated orange juice, and all other goods and articles, except onions (as provided by section 13–1 of this title) and motion picture box office receipts (or any index, measure, value, or data related to such receipts), and all services, rights, and interests (except motion picture box office receipts, or any index, measure, value or data related to such receipts) in which contracts for future delivery are presently or in the future dealt in."
+
+
 # Commodities Case Law
 
 [Complaint: Ooki, et al. and Order: BZeroX, LLC, et al. (September 22, 2022)](https://www.cftc.gov/PressRoom/PressReleases/8590-22#:~:text=Number%208590%2D22-,CFTC%20Imposes%20%24250%2C000%20Penalty%20Against%20bZeroX%2C%20LLC%20and%20Its%20Founders,Comply%20with%20Bank%20Secrecy%20Act)
