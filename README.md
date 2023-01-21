@@ -80,6 +80,8 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 [Customer Advisory: Use Caution When Buying Digital Coins or Tokens](https://www.cftc.gov/sites/default/files/2018-07/customeradvisory_tokens0718.pdf)
 
+[Customer Advisory: Understand the Risks of Virtual Currency Trading](https://www.cftc.gov/sites/default/files/idc/groups/public/@customerprotection/documents/file/customeradvisory_urvct121517.pdf)
+
 # Blockchain Enforcement
 
 [SEC Enforcement Actions](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
