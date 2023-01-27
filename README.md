@@ -1,5 +1,7 @@
 # Compliance
-This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corpus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public. The software is open source and may be used by anyone, subject to the terms and conditions of the [License](https://github.com/ChoiceCoin/Compliance/blob/main/LICENSE) and Disclaimer. Much of the work for Choice Coin compliance was done on Solana and can be found in the [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance) repository.
+This repository contains software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corpus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The focus for this repository is on U.S. securities and commodities compliance. However, over time, focus will be expanded to other areas of law as well.
+
+The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public. The software is open source and may be used by anyone, subject to the terms and conditions of the [License](https://github.com/ChoiceCoin/Compliance/blob/main/LICENSE) and Disclaimer. Much of the work for Choice Coin compliance was done on Solana and can be found in the [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance) repository.
 
 # Disclaimer
 
@@ -7,15 +9,16 @@ This repository contains software for compliance. Accelerating excellence in com
 Nothing in this repository is or should be considered legal advice. 
 Nothing in this repository can replace a lawyers advice or counsel.*
 
+
+# Compliance AI
+
+The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance. The goal for the Compliance AI is to use an evolving [regulatory database](https://github.com/ChoiceCoin/Solana-Compliance/tree/main/Database) to inform smarter compliance decisions. [Choice Coin AI Demo](https://www.youtube.com/watch?v=95YdWmd5RIQ)
+
 # Cross-Chain Capability
 
 Choice Coin Compliance for Solana, see [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance). 
 
 Choice Coin Compliance for Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-Algorand-Hackathon).
-
-# Compliance AI
-
-The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance. The goal for the Compliance AI is to use an evolving [regulatory database](https://github.com/ChoiceCoin/Solana-Compliance/tree/main/Database) to inform smarter compliance decisions. [Choice Coin AI Demo](https://www.youtube.com/watch?v=95YdWmd5RIQ)
 
 # What is a security?
 
