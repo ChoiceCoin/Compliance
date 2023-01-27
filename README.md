@@ -74,13 +74,15 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 [Complaint: Ooki, et al. and Order: BZeroX, LLC, et al. (September 22, 2022).](https://www.cftc.gov/PressRoom/PressReleases/8590-22#:~:text=Number%208590%2D22-,CFTC%20Imposes%20%24250%2C000%20Penalty%20Against%20bZeroX%2C%20LLC%20and%20Its%20Founders,Comply%20with%20Bank%20Secrecy%20Act)
 
-# CFTF Advisories
+# CFTF Publications
 
 [Customer Advisory: Beware Virtual Currency Pump-and-Dump Schemes](https://www.cftc.gov/sites/default/files/idc/groups/public/%40customerprotection/documents/file/customeradvisory_pumpdump0218.pdf)
 
 [Customer Advisory: Use Caution When Buying Digital Coins or Tokens](https://www.cftc.gov/sites/default/files/2018-07/customeradvisory_tokens0718.pdf)
 
 [Customer Advisory: Understand the Risks of Virtual Currency Trading](https://www.cftc.gov/sites/default/files/idc/groups/public/@customerprotection/documents/file/customeradvisory_urvct121517.pdf)
+
+[A CFTC Primer on Virtual Currencies](https://www.cftc.gov/sites/default/files/idc/groups/public/%40customerprotection/documents/file/labcftc_primercurrencies100417.pdf)
 
 # Blockchain Enforcement
 
