@@ -9,6 +9,10 @@ The goal for this repository is to advance an optimized compliance program for C
 Nothing in this repository is or should be considered legal advice. 
 Nothing in this repository can replace a lawyers advice or counsel.*
 
+# chatGPT
+
+Demonstration using [chatGPT](https://www.youtube.com/watch?v=g79FYb8UPdg) to build automation software.
+
 
 # Compliance AI
 
