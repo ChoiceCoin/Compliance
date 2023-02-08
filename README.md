@@ -95,7 +95,7 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 # Blockchain Enforcement
 
-[SEC Enforcement Actions](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
+[SEC Enforcement Actions.](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
 
 [SEC v. Ripple Labs, 20 Civ. 10832 (2020).](https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf)
 
