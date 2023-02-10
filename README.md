@@ -130,6 +130,8 @@ The DAO (July 25, 2017).](https://www.sec.gov/litigation/investreport/34-81207.p
 
 # Secondary Sources
 
+[Kraken Down: Statement on SEC v. Payward Ventures, Inc., et al. (Feb. 9, 2023)](https://www.sec.gov/news/statement/peirce-statement-kraken-020923)
+
 [SEC Division of Examinations Announces 2023 Priorities (Feb. 7, 2023).](https://www.sec.gov/news/press-release/2023-24)
 
 [U.S. Department of Justice, Cryptocurrency Enforcement Framework, Report of The Attorney General’s Cyber
