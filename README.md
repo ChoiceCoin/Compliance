@@ -97,6 +97,8 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 [SEC Enforcement Actions.](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
 
+[New York v. KuCoin (2023).](https://ag.ny.gov/press-release/2023/attorney-general-james-continues-crackdown-unregistered-cryptocurrency-platforms)
+
 [SEC Charges Genesis and Gemini for the Unregistered Offer and Sale of Crypto Asset Securities through the Gemini Earn Lending Program.](https://www.sec.gov/news/press-release/2023-7)
 
 [Kraken to Discontinue Unregistered Offer and Sale of Crypto Asset Staking-As-A-Service Program and Pay $30 Million to Settle SEC Charges.](https://www.sec.gov/news/press-release/2023-25)
