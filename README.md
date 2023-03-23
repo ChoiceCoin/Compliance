@@ -13,7 +13,6 @@ Nothing in this repository can replace a lawyers advice or counsel.*
 
 Demonstration using [chatGPT](https://www.youtube.com/watch?v=g79FYb8UPdg) to build automation software.
 
-
 # Compliance AI
 
 The Choice Coin Compliance AI is designed to statistically measure digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. The AI is an embedded system, which codifies human knowledge and analysis for optimizing non-security asset compliance. As part of Choice Coin's committement to excellence in compliance and ethics, regular assessments of the Choice asset are run to ensure growth toward decentralization and regulatory compliance. The goal for the Compliance AI is to use an evolving [regulatory database](https://github.com/ChoiceCoin/Solana-Compliance/tree/main/Database) to inform smarter compliance decisions. [Choice Coin AI Demo](https://www.youtube.com/watch?v=95YdWmd5RIQ)
@@ -139,6 +138,8 @@ The DAO (July 25, 2017).](https://www.sec.gov/litigation/investreport/34-81207.p
 [Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
 # Secondary Sources
+
+[United States Securities and Exchange Commission, Coinbase, Wells Letter (March 22, 2023).](https://assets.ctfassets.net/c5bd0wqjc7v0/6G5AjtDvRqRdiwlijKDSxE/f049398909914cb03646d0819d7a48d1/2023.03.22_Coinbase__Inc._Wells_notice.pdf)
 
 [Kraken Down: Statement on SEC v. Payward Ventures, Inc., et al. (Feb. 9, 2023).](https://www.sec.gov/news/statement/peirce-statement-kraken-020923)
 
