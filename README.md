@@ -137,6 +137,8 @@ The DAO (July 25, 2017).](https://www.sec.gov/litigation/investreport/34-81207.p
 
 [Lil Yachty v. Opulous (January 27, 2022).](https://www.courthousenews.com/wp-content/uploads/2022/01/lil-yachty-opulous-complaint.pdf.)
 
+[United States of America v. Anatoly Legkodymov (January 18, 2023).](https://www.justice.gov/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-charged-processing-over-700-million)
+
 # Secondary Sources
 
 [United States Securities and Exchange Commission, Coinbase, Wells Letter (March 22, 2023).](https://assets.ctfassets.net/c5bd0wqjc7v0/6G5AjtDvRqRdiwlijKDSxE/f049398909914cb03646d0819d7a48d1/2023.03.22_Coinbase__Inc._Wells_notice.pdf)
