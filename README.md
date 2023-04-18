@@ -98,6 +98,8 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 [SEC Enforcement Actions.](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)
 
+[Securities and Exchange Commission v. Bittrex, Inc.](https://www.sec.gov/litigation/litreleases/2023/lr25694.htm)
+
 [New York v. Mashinsky (2023).](https://ag.ny.gov/press-release/2023/attorney-general-james-sues-former-ceo-celsius-cryptocurrency-platform-defrauding#:~:text=NEW%20YORK%20%E2%80%93%20New%20York%20Attorney,26%2C000%20New%20Yorkers%2C%20out%20of)
 
 [SEC v. Terraform Labs and Do Kwon (2023).](https://www.sec.gov/news/press-release/2023-32)
