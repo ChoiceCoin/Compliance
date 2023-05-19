@@ -75,7 +75,6 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 "The term “commodity” means wheat, cotton, rice, corn, oats, barley, rye, flaxseed, grain sorghums, mill feeds, butter, eggs, Solanum tuberosum (Irish potatoes), wool, wool tops, fats and oils (including lard, tallow, cottonseed oil, peanut oil, soybean oil, and all other fats and oils), cottonseed meal, cottonseed, peanuts, soybeans, soybean meal, livestock, livestock products, and frozen concentrated orange juice, and all other goods and articles, except onions (as provided by section 13–1 of this title) and motion picture box office receipts (or any index, measure, value, or data related to such receipts), and all services, rights, and interests (except motion picture box office receipts, or any index, measure, value or data related to such receipts) in which contracts for future delivery are presently or in the future dealt in."
 
-
 # Commodities Case Law
 
 [Commodity Futures Trading Commission v. Changpeng Zhao, Binance Holdings Limited, et. al. (March 27, 2023).](https://www.cftc.gov/PressRoom/PressReleases/8680-23)
@@ -88,7 +87,7 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 [Customer Advisory: Use Caution When Buying Digital Coins or Tokens](https://www.cftc.gov/sites/default/files/2018-07/customeradvisory_tokens0718.pdf)
 
-[Enforcement Manual.](https://www.cftc.gov/sites/default/files/2021-05/EnforcementManual.pdf)
+[Enforcement Manual](https://www.cftc.gov/sites/default/files/2021-05/EnforcementManual.pdf)
 
 [An Introduction to Virtual Currency](https://www.cftc.gov/sites/default/files/idc/groups/public/%40customerprotection/documents/file/oceo_aivc0218.pdf)
 
