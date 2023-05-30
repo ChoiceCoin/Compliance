@@ -197,7 +197,4 @@ Circuit Standards, 6 J. BUS. & TECH. L 231 (2011).](https://digitalcommons.law.u
 
 [Tesla, 10K (2021).](https://ir.tesla.com/_flysystem/s3/sec/000156459021022604/tsla-10ka_20201231-gen.pdf)
 
-# Developer Forum Posts
-
-[Crypto Compliance, Algorand Developer Forum (2022).](https://forum.algorand.org/t/crypto-compliance/7097)
 
