@@ -111,7 +111,7 @@ The term commodity is defined under U.S. Law in [7 U.S.C. § 7(1a)](https://www.
 
 [Kraken to Discontinue Unregistered Offer and Sale of Crypto Asset Staking-As-A-Service Program and Pay $30 Million to Settle SEC Charges. (2023).](https://www.sec.gov/news/press-release/2023-25)
 
-[SEC v. Ripple Labs, Order on Motion for Summary Judgment (2023).](https://www.courtlistener.com/docket/19857399/874/securities-and-exchange-commission-v-ripple-labs-inc/))
+[SEC v. Ripple Labs, Order on Motion for Summary Judgment (2023).](https://www.courtlistener.com/docket/19857399/874/securities-and-exchange-commission-v-ripple-labs-inc/)
 
 [SEC v. Ripple Labs, 20 Civ. 10832 (2020).](https://www.sec.gov/litigation/complaints/2020/comp-pr2020-338.pdf)
 
