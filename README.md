@@ -1,11 +1,7 @@
 # Compliance
-This repository contains databases and analytical software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corpus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The focus for this repository is on U.S. securities and commodities compliance. However, over time, focus will be expanded to other areas of law as well.
+This repository contains databases and analytical software for compliance. Accelerating excellence in compliance and ethics is an important part of Choice Coin's role as an open source governance platform. Below is an evolving regulatory corpus for blockchain technologies. The corpus includes statutes, cases, secondary sources, and corporate filings relating to the evolution of blockchain and law. The focus for this repository is on U.S. securities and commodities compliance. However, over time, focus will be expanded to other areas of law as well. The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public. 
 
-The goal for this repository is to advance an optimized compliance program for Choice Coin and make information availible to the public. 
-
-The software is open source and may be used by anyone, subject to the terms and conditions of the [License](https://github.com/ChoiceCoin/Compliance/blob/main/LICENSE) and Disclaimer. 
-
-The work for Choice Coin compliance has been supported by both the Algorand Foundation and the Solana Foundation.
+The software is open source and may be used by anyone, subject to the terms and conditions of the [License](https://github.com/ChoiceCoin/Compliance/blob/main/LICENSE) and Disclaimer. The work for Choice Coin compliance has been supported by both the Algorand Foundation and the Solana Foundation. We are extremely grateful to both the Algorand Foundatioin and the Solana Foundation for their support.
 
 Solana can be found in the [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance) repository.
 
