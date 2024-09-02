@@ -25,7 +25,7 @@ The Choice Coin Compliance AI is designed to statistically measure digital asset
 
 Choice Coin Compliance for Solana, see [Solana-Compliance](https://github.com/ChoiceCoin/Solana-Compliance). 
 
-Choice Coin Compliance for Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-Algorand-Hackathon) and [Algo Compliance](https://github.com/ChoiceCoin/algo-compliance).
+Choice Coin Compliance for Algorand, see [Encode-x-Hackathon](https://github.com/ChoiceCoin/Encode-x-Algorand-Hackathon) and [Algo-Compliance](https://github.com/ChoiceCoin/algo-compliance).
 
 # What is a security?
 
