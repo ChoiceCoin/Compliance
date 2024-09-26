@@ -156,7 +156,7 @@ The DAO (July 25, 2017).](https://www.sec.gov/litigation/investreport/34-81207.p
 
 # Secondary Sources
 
-[Legal Matters in Web 3: A Desk Reference](https://www.law.uchicago.edu/sites/default/files/2024-09/LM%20Web3%20Desk%20Reference%20-%20Formatted%20-%20240907.pdf)
+[Legal Matters in Web 3: A Desk Reference (2024).](https://www.law.uchicago.edu/sites/default/files/2024-09/LM%20Web3%20Desk%20Reference%20-%20Formatted%20-%20240907.pdf)
 
 [Paul Grewal, Coinbase, Blog, We asked the SEC for reasonable crypto rules for Americans. We got legal threats instead. (2023).](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal).
 
